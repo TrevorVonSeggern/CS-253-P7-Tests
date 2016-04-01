@@ -1,0 +1,6 @@
+time	real	user	sys
+-- 10k by 10k
+Thursday	32.91	32.55	0.34
+
+-- 10k by 3k
+Thursday	10.113	9.953	0.152

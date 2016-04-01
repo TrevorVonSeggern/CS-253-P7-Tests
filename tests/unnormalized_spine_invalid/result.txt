@@ -1,0 +1,1 @@
+Error: Normalization failed. All Points are uniform.

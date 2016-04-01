@@ -1,0 +1,12 @@
+node_modules
+PA4
+dist
+src/obj
+*.o
+archive/*
+dist/*
+.git
+!CMakeLists.txt
+cmake_install.cmake
+CMakeCache.txt
+CMakeFiles

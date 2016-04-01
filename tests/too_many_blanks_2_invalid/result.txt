@@ -1,0 +1,1 @@
+Error: The file 'input.txt' contains an empty line on line number [1].
