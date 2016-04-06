@@ -2928,11 +2928,11 @@ cfn=(1448) PoseCollection::GetDifferenceTable(PoseCollection const&) const
 calls=1 0 
 0 32497
 0 3
-cfn=(1466) Table::GetDynamicTimeWorpedTable()
+cfn=(1466) Table::GetDynamicTimeWarpedTable()
 calls=1 0 
 0 3285
 0 3
-cfn=(1474) Table::minRow(unsigned long)
+cfn=(1474) Table::MinRow(unsigned long)
 calls=1 0 
 0 46
 0 2

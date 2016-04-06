@@ -1,0 +1,8 @@
+Saturday
+
+using run within Clion
+
+time:		test:
+~1 second	meduim
+~.96 second	meduim -- using reference for line in GetPosesFromLine
+~.9 second 	meduim -- flat array for Points...
